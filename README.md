@@ -13,7 +13,7 @@ This Simple Web App connects to the Studio Ghibili API, retrieves the data using
     - Any programming language can be used to make a CRUD app with various methods.
     - A web API uses HTTP requests that correspond to the CRUD verbs.
 
-#### Action----------HTTP Method-------Description
+####---- Action----------HTTP Method-------Description
     Create           POST              Create a new resource
     Read             GET               Retrieves a resource
     Update           PUT/ PATCH        Updates an existing resource
